@@ -1,0 +1,276 @@
+C:\WORK\C#\JiraBrowserWin\JiraBrowserWin\bin\Debug\JiraBrowserWin.exe
+C:\WORK\C#\JiraBrowserWin\JiraBrowserWin\bin\Debug\JiraBrowserWin.pdb
+C:\WORK\C#\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\WORK\C#\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.Form1.resources
+C:\WORK\C#\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.Properties.Resources.resources
+C:\WORK\C#\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\WORK\C#\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\WORK\C#\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.exe
+C:\WORK\C#\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.pdb
+C:\WORK\C#\JiraBrowserWin\JiraBrowserWin\bin\Debug\JiraBrowserWin.exe.config
+C:\WORK\C#\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.QuickLink.resources
+D:\_ADACTA\C#\JiraBrowserWin\JiraBrowserWin\bin\Debug\JiraBrowserWin.exe.config
+D:\_ADACTA\C#\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.exe
+D:\_ADACTA\C#\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.pdb
+D:\_ADACTA\C#\JiraBrowserWin\JiraBrowserWin\bin\Debug\JiraBrowserWin.exe
+D:\_ADACTA\C#\JiraBrowserWin\JiraBrowserWin\bin\Debug\JiraBrowserWin.pdb
+D:\_ADACTA\C#\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\_ADACTA\C#\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.Form1.resources
+D:\_ADACTA\C#\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.Properties.Resources.resources
+D:\_ADACTA\C#\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.QuickLink.resources
+D:\_ADACTA\C#\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\_ADACTA\C#\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\_ADACTA\C#\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.QuickLinks.resources
+C:\WORK\C#\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.QuickLinks.resources
+D:\WORK\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\bin\Debug\JiraBrowserWin.exe.config
+D:\WORK\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.exe
+D:\WORK\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.pdb
+D:\WORK\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\bin\Debug\JiraBrowserWin.exe
+D:\WORK\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\bin\Debug\JiraBrowserWin.pdb
+D:\WORK\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.csprojResolveAssemblyReference.cache
+D:\WORK\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.Properties.Resources.resources
+D:\WORK\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.csproj.GenerateResource.Cache
+D:\WORK\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\bin\Debug\Newtonsoft.Json.dll
+D:\WORK\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\bin\Debug\Newtonsoft.Json.pdb
+D:\WORK\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\bin\Debug\Newtonsoft.Json.xml
+D:\WORK\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.Form1.resources
+D:\WORK\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.LoginForm.resources
+D:\WORK\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\bin\Debug\EntityFramework.dll
+D:\WORK\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\bin\Debug\EntityFramework.SqlServer.dll
+D:\WORK\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\bin\Debug\System.Data.SQLite.dll
+D:\WORK\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\bin\Debug\System.Data.SQLite.EF6.dll
+D:\WORK\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\bin\Debug\System.Data.SQLite.Linq.dll
+D:\WORK\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\bin\Debug\EntityFramework.xml
+D:\WORK\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\bin\Debug\EntityFramework.SqlServer.xml
+D:\WORK\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\bin\Debug\System.Data.SQLite.xml
+D:\sync\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\bin\Debug\JiraBrowserWin.exe.config
+D:\sync\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.exe
+D:\sync\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.pdb
+D:\sync\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\bin\Debug\JiraBrowserWin.exe
+D:\sync\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\bin\Debug\JiraBrowserWin.pdb
+D:\sync\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\bin\Debug\EntityFramework.dll
+D:\sync\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\bin\Debug\EntityFramework.SqlServer.dll
+D:\sync\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\bin\Debug\System.Data.SQLite.dll
+D:\sync\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\bin\Debug\System.Data.SQLite.EF6.dll
+D:\sync\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\bin\Debug\System.Data.SQLite.Linq.dll
+D:\sync\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\bin\Debug\EntityFramework.xml
+D:\sync\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\bin\Debug\EntityFramework.SqlServer.xml
+D:\sync\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\bin\Debug\Newtonsoft.Json.pdb
+D:\sync\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\bin\Debug\Newtonsoft.Json.xml
+D:\sync\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\bin\Debug\System.Data.SQLite.xml
+D:\sync\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.csprojResolveAssemblyReference.cache
+D:\sync\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.Form1.resources
+D:\sync\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.LoginForm.resources
+D:\sync\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.Properties.Resources.resources
+D:\sync\Dropbox\_ADACTA\CS\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.csproj.GenerateResource.Cache
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\JiraBrowserWin.exe.config
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\JiraBrowserWin.exe
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\JiraBrowserWin.pdb
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\CefSharp.Core.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\CefSharp.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\CefSharp.WinForms.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\EntityFramework.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\System.Data.SQLite.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\System.Windows.Forms.Calendar.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\System.Windows.Forms.Calendar.pdb
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\CefSharp.WinForms.xml
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\CefSharp.xml
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\CefSharp.Core.xml
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\EntityFramework.xml
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\System.Data.SQLite.xml
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.csprojResolveAssemblyReference.cache
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.csproj.ResolveComReference.cache
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.Form1.resources
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.LoginForm.resources
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.Properties.Resources.resources
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.WorkLogEditor.resources
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.csproj.GenerateResource.Cache
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.exe
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.pdb
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.JiraWorkLogEditor.resources
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\WebDriver.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\WebDriver.xml
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.Settings.resources
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\JiraBrowserWin.exe.config
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\JiraBrowserWin.exe
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\JiraBrowserWin.pdb
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\CefSharp.Core.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\CefSharp.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\CefSharp.WinForms.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\EntityFramework.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\EntityFramework.SqlServer.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\System.Data.SQLite.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\System.Data.SQLite.EF6.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\System.Data.SQLite.Linq.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\System.Windows.Forms.Calendar.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\WebDriver.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\System.Windows.Forms.Calendar.pdb
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\CefSharp.WinForms.xml
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\CefSharp.xml
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\CefSharp.Core.xml
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\EntityFramework.xml
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\EntityFramework.SqlServer.xml
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\System.Data.SQLite.xml
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\WebDriver.xml
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.csproj.ResolveComReference.cache
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.Settings.resources
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.Form1.resources
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.JiraWorkLogEditor.resources
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.LoginForm.resources
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.Properties.Resources.resources
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.WorkLogEditor.resources
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.csproj.GenerateResource.Cache
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.exe
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.pdb
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.csprojResolveAssemblyReference.cache
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\CefSharp.WinForms.pdb
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\CefSharp.pdb
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\CefSharp.Core.pdb
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\CefSharp.pdb
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\JiraBrowserWin\bin\Debug\CefSharp.Core.pdb
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\JiraBrowserWin.exe.config
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\JiraBrowserWin.exe
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\JiraBrowserWin.pdb
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\CefSharp.Core.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\CefSharp.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\CefSharp.WinForms.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\EntityFramework.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\System.Data.SQLite.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\System.Windows.Forms.Calendar.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\WebDriver.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\System.Windows.Forms.Calendar.pdb
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\CefSharp.WinForms.xml
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\CefSharp.pdb
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\CefSharp.xml
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\CefSharp.Core.pdb
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\CefSharp.Core.xml
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\EntityFramework.xml
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\System.Data.SQLite.xml
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\WebDriver.xml
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.csprojResolveAssemblyReference.cache
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.csproj.ResolveComReference.cache
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.Settings.resources
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.Form1.resources
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.JiraWorkLogEditor.resources
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.LoginForm.resources
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.Properties.Resources.resources
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.WorkLogEditor.resources
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.csproj.GenerateResource.Cache
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.exe
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.pdb
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\JetBrains.Annotations.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\RestSharp.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\JetBrains.Annotations.xml
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\RestSharp.xml
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.Splash.resources
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\JiraBrowserWin.exe.config
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.csproj.ResolveComReference.cache
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.exe
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.pdb
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.loading_overlay.resources
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.Settings.resources
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.Form1.resources
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.JiraWorkLogEditor.resources
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.LoginForm.resources
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.Properties.Resources.resources
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.Splash.resources
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.WorkLogEditor.resources
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.csproj.GenerateResource.Cache
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\JiraBrowserWin.exe
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\JiraBrowserWin.pdb
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\CefSharp.Core.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\CefSharp.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\CefSharp.WinForms.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\EntityFramework.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\EntityFramework.SqlServer.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\JetBrains.Annotations.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\RestSharp.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\System.Data.SQLite.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\System.Data.SQLite.EF6.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\System.Data.SQLite.Linq.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\System.Windows.Forms.Calendar.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\WebDriver.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\System.Windows.Forms.Calendar.pdb
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\CefSharp.WinForms.pdb
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\CefSharp.WinForms.xml
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\CefSharp.pdb
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\CefSharp.xml
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\CefSharp.Core.pdb
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\CefSharp.Core.xml
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\EntityFramework.xml
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\EntityFramework.SqlServer.xml
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\JetBrains.Annotations.xml
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\RestSharp.xml
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\System.Data.SQLite.xml
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\WebDriver.xml
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.loading_overlay.resources
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\MTGCCombobox.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\Newtonsoft.Json.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\MTGCCombobox.pdb
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\MTGCCombobox.xml
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\MTGCCombobox.pdb
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\MTGCCombobox.xml
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\JiraBrowserWin.exe.config
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.csproj.ResolveComReference.cache
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.exe
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.pdb
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\JiraBrowserWin.exe
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\JiraBrowserWin.pdb
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\CefSharp.Core.dll
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\CefSharp.dll
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\CefSharp.WinForms.dll
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\EntityFramework.dll
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\EntityFramework.SqlServer.dll
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\JetBrains.Annotations.dll
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\RestSharp.dll
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\System.Data.SQLite.dll
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\System.Data.SQLite.EF6.dll
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\System.Data.SQLite.Linq.dll
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\System.Windows.Forms.Calendar.dll
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\WebDriver.dll
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\System.Windows.Forms.Calendar.pdb
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\CefSharp.WinForms.pdb
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\CefSharp.WinForms.xml
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\CefSharp.pdb
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\CefSharp.xml
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\CefSharp.Core.pdb
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\CefSharp.Core.xml
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\EntityFramework.xml
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\EntityFramework.SqlServer.xml
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\JetBrains.Annotations.xml
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\MTGCCombobox.pdb
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\MTGCCombobox.xml
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\RestSharp.xml
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\System.Data.SQLite.xml
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\WebDriver.xml
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.loading_overlay.resources
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.Settings.resources
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.Form1.resources
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.JiraWorkLogEditor.resources
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.LoginForm.resources
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.Properties.Resources.resources
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.Splash.resources
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.WorkLogEditor.resources
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.csproj.GenerateResource.Cache
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\System.Data.SQLite.dll.config
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.csproj.CoreCompileInputs.cache
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\System.Data.SQLite.dll.config
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.csproj.CoreCompileInputs.cache
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.csprojAssemblyReference.cache
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\bin\Debug\stdole.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.csproj.CopyComplete
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.csprojAssemblyReference.cache
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\JiraBrowserWin\obj\x86\Debug\JiraBrowserWin.csproj.CopyComplete

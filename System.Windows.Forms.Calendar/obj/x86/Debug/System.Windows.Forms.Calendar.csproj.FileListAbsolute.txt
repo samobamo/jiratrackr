@@ -1,0 +1,33 @@
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\System.Windows.Forms.Calendar\bin\x86\Debug\System.Windows.Forms.Calendar.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\System.Windows.Forms.Calendar\bin\x86\Debug\System.Windows.Forms.Calendar.pdb
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\System.Windows.Forms.Calendar\obj\x86\Debug\System.Windows.Forms.Calendar.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\System.Windows.Forms.Calendar\obj\x86\Debug\System.Windows.Forms.Calendar.pdb
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\System.Windows.Forms.Calendar\obj\x86\Debug\System.Windows.Forms.Calendar.csprojResolveAssemblyReference.cache
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\System.Windows.Forms.Calendar\bin\x86\Debug\System.Windows.Forms.Calendar.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\System.Windows.Forms.Calendar\bin\x86\Debug\System.Windows.Forms.Calendar.pdb
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\System.Windows.Forms.Calendar\obj\x86\Debug\System.Windows.Forms.Calendar.csprojResolveAssemblyReference.cache
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\System.Windows.Forms.Calendar\obj\x86\Debug\System.Windows.Forms.Calendar.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin\System.Windows.Forms.Calendar\obj\x86\Debug\System.Windows.Forms.Calendar.pdb
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\System.Windows.Forms.Calendar\bin\x86\Debug\System.Windows.Forms.Calendar.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\System.Windows.Forms.Calendar\bin\x86\Debug\System.Windows.Forms.Calendar.pdb
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\System.Windows.Forms.Calendar\obj\x86\Debug\System.Windows.Forms.Calendar.csprojResolveAssemblyReference.cache
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\System.Windows.Forms.Calendar\obj\x86\Debug\System.Windows.Forms.Calendar.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin - test\System.Windows.Forms.Calendar\obj\x86\Debug\System.Windows.Forms.Calendar.pdb
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\System.Windows.Forms.Calendar\bin\x86\Debug\System.Windows.Forms.Calendar.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\System.Windows.Forms.Calendar\bin\x86\Debug\System.Windows.Forms.Calendar.pdb
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\System.Windows.Forms.Calendar\obj\x86\Debug\System.Windows.Forms.Calendar.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\System.Windows.Forms.Calendar\obj\x86\Debug\System.Windows.Forms.Calendar.pdb
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\System.Windows.Forms.Calendar\obj\x86\Debug\System.Windows.Forms.Calendar.csproj.CoreCompileInputs.cache
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\System.Windows.Forms.Calendar\bin\x86\Debug\System.Windows.Forms.Calendar.dll
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\System.Windows.Forms.Calendar\bin\x86\Debug\System.Windows.Forms.Calendar.pdb
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\System.Windows.Forms.Calendar\obj\x86\Debug\System.Windows.Forms.Calendar.csproj.CoreCompileInputs.cache
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\System.Windows.Forms.Calendar\obj\x86\Debug\System.Windows.Forms.Calendar.dll
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\System.Windows.Forms.Calendar\obj\x86\Debug\System.Windows.Forms.Calendar.pdb
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\System.Windows.Forms.Calendar\obj\x86\Debug\System.Windows.Forms.Calendar.csprojAssemblyReference.cache
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\System.Windows.Forms.Calendar\bin\x86\Debug\Microsoft.Office.Interop.Outlook.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\System.Windows.Forms.Calendar\bin\x86\Debug\stdole.dll
+F:\sync\OneDrive\_PROJEKTI\JiraBrowserWin - test\System.Windows.Forms.Calendar\obj\x86\Debug\System.Windows.Forms.Calendar.csproj.CopyComplete
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\System.Windows.Forms.Calendar\bin\x86\Debug\Microsoft.Office.Interop.Outlook.dll
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\System.Windows.Forms.Calendar\bin\x86\Debug\stdole.dll
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\System.Windows.Forms.Calendar\obj\x86\Debug\System.Windows.Forms.Calendar.csprojAssemblyReference.cache
+D:\_SYNC\OneDrive\_PROJEKTI\JiraBrowserWin - test\System.Windows.Forms.Calendar\obj\x86\Debug\System.Windows.Forms.Calendar.csproj.CopyComplete

@@ -1,0 +1,10 @@
+C:\Users\baskovc\OneDrive\_PROJEKTI\System.Windows.Forms.Calendar\System.Windows.Forms.Calendar\bin\Debug\System.Windows.Forms.Calendar.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\System.Windows.Forms.Calendar\System.Windows.Forms.Calendar\bin\Debug\System.Windows.Forms.Calendar.pdb
+C:\Users\baskovc\OneDrive\_PROJEKTI\System.Windows.Forms.Calendar\System.Windows.Forms.Calendar\obj\Debug\System.Windows.Forms.Calendar.csprojResolveAssemblyReference.cache
+C:\Users\baskovc\OneDrive\_PROJEKTI\System.Windows.Forms.Calendar\System.Windows.Forms.Calendar\obj\Debug\System.Windows.Forms.Calendar.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\System.Windows.Forms.Calendar\System.Windows.Forms.Calendar\obj\Debug\System.Windows.Forms.Calendar.pdb
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\System.Windows.Forms.Calendar\bin\Debug\System.Windows.Forms.Calendar.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\System.Windows.Forms.Calendar\bin\Debug\System.Windows.Forms.Calendar.pdb
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\System.Windows.Forms.Calendar\obj\Debug\System.Windows.Forms.Calendar.csprojResolveAssemblyReference.cache
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\System.Windows.Forms.Calendar\obj\Debug\System.Windows.Forms.Calendar.dll
+C:\Users\baskovc\OneDrive\_PROJEKTI\JiraBrowserWin\System.Windows.Forms.Calendar\obj\Debug\System.Windows.Forms.Calendar.pdb

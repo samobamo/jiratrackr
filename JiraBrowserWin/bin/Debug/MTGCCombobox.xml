@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MTGCCombobox
+</name>
+</assembly>
+<members>
+<member name="M:MTGCComboBox.ControlList.GetStandardValues(System.ComponentModel.ITypeDescriptorContext)">
+
+</member>
+<member name="M:MTGCComboBox.ControlList.GetStandardValuesSupported(System.ComponentModel.ITypeDescriptorContext)">
+
+</member>
+<member name="M:MTGCComboBox.ControlList.GetStandardValuesExclusive(System.ComponentModel.ITypeDescriptorContext)">
+
+</member>
+</members>
+</doc>
