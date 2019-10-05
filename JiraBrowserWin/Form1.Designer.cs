@@ -56,6 +56,10 @@
             this.listView2 = new System.Windows.Forms.ListView();
             this.tabPage5 = new System.Windows.Forms.TabPage();
             this.listView3 = new System.Windows.Forms.ListView();
+            this.tabPage6 = new System.Windows.Forms.TabPage();
+            this.pieChart1 = new LiveCharts.WinForms.PieChart();
+            this.jiraEntryBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.data = new JiraBrowserWin.Data();
             this.comboBox2 = new System.Windows.Forms.ComboBox();
             this.monthView1 = new System.Windows.Forms.Calendar.MonthView();
             this.linkLabel8 = new System.Windows.Forms.LinkLabel();
@@ -82,12 +86,16 @@
             this.Trackr = new System.Windows.Forms.NotifyIcon(this.components);
             this.mtgcComboBox1 = new MTGCComboBox();
             this.button1 = new System.Windows.Forms.Button();
+            this.pieChart2 = new LiveCharts.WinForms.PieChart();
             this.tabControl1.SuspendLayout();
             this.tabPage4.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.contextMenuStrip1.SuspendLayout();
             this.tabPage3.SuspendLayout();
             this.tabPage5.SuspendLayout();
+            this.tabPage6.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.jiraEntryBindingSource)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.data)).BeginInit();
             this.SuspendLayout();
             // 
             // timer1
@@ -122,6 +130,7 @@
             this.tabControl1.Controls.Add(this.tabPage2);
             this.tabControl1.Controls.Add(this.tabPage3);
             this.tabControl1.Controls.Add(this.tabPage5);
+            this.tabControl1.Controls.Add(this.tabPage6);
             this.tabControl1.Location = new System.Drawing.Point(12, 85);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
@@ -146,6 +155,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.listView1.FullRowSelect = true;
             this.listView1.GridLines = true;
+            this.listView1.HideSelection = false;
             this.listView1.Location = new System.Drawing.Point(3, 3);
             this.listView1.MultiSelect = false;
             this.listView1.Name = "listView1";
@@ -309,6 +319,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.listView2.FullRowSelect = true;
             this.listView2.GridLines = true;
+            this.listView2.HideSelection = false;
             this.listView2.LabelEdit = true;
             this.listView2.Location = new System.Drawing.Point(3, 3);
             this.listView2.Name = "listView2";
@@ -331,12 +342,42 @@
             // listView3
             // 
             this.listView3.GridLines = true;
+            this.listView3.HideSelection = false;
             this.listView3.Location = new System.Drawing.Point(3, 3);
             this.listView3.Name = "listView3";
             this.listView3.Size = new System.Drawing.Size(471, 580);
             this.listView3.TabIndex = 0;
             this.listView3.UseCompatibleStateImageBehavior = false;
             this.listView3.View = System.Windows.Forms.View.Details;
+            // 
+            // tabPage6
+            // 
+            this.tabPage6.Controls.Add(this.pieChart2);
+            this.tabPage6.Controls.Add(this.pieChart1);
+            this.tabPage6.Location = new System.Drawing.Point(4, 22);
+            this.tabPage6.Name = "tabPage6";
+            this.tabPage6.Size = new System.Drawing.Size(1028, 586);
+            this.tabPage6.TabIndex = 5;
+            this.tabPage6.Text = "Analize";
+            this.tabPage6.UseVisualStyleBackColor = true;
+            // 
+            // pieChart1
+            // 
+            this.pieChart1.Location = new System.Drawing.Point(18, 17);
+            this.pieChart1.Name = "pieChart1";
+            this.pieChart1.Size = new System.Drawing.Size(346, 346);
+            this.pieChart1.TabIndex = 0;
+            this.pieChart1.Text = "pieChart1";
+            // 
+            // jiraEntryBindingSource
+            // 
+            this.jiraEntryBindingSource.DataMember = "JiraEntry";
+            this.jiraEntryBindingSource.DataSource = this.data;
+            // 
+            // data
+            // 
+            this.data.DataSetName = "Data";
+            this.data.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
             // 
             // comboBox2
             // 
@@ -699,6 +740,14 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // pieChart2
+            // 
+            this.pieChart2.Location = new System.Drawing.Point(502, 17);
+            this.pieChart2.Name = "pieChart2";
+            this.pieChart2.Size = new System.Drawing.Size(383, 360);
+            this.pieChart2.TabIndex = 1;
+            this.pieChart2.Text = "pieChart2";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -749,6 +798,9 @@
             this.contextMenuStrip1.ResumeLayout(false);
             this.tabPage3.ResumeLayout(false);
             this.tabPage5.ResumeLayout(false);
+            this.tabPage6.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.jiraEntryBindingSource)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.data)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -803,6 +855,11 @@
         private System.Windows.Forms.TabPage tabPage5;
         private System.Windows.Forms.ListView listView3;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.TabPage tabPage6;
+        private LiveCharts.WinForms.PieChart pieChart1;
+        private System.Windows.Forms.BindingSource jiraEntryBindingSource;
+        private Data data;
+        private LiveCharts.WinForms.PieChart pieChart2;
     }
 }
 

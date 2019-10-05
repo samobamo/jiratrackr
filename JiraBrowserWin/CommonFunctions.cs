@@ -9,6 +9,10 @@ using System.IO;
 using System.Drawing;
 using System.Security;
 using JiraBrowserWin.JiraModel;
+using LiveCharts;
+using LiveCharts.Wpf;
+using LiveCharts.WinForms;
+using System.Data;
 
 namespace JiraBrowserWin
 {
@@ -233,13 +237,14 @@ namespace JiraBrowserWin
         {
             return true;
         }
-        public static void CalculateDailyHours(DateTime StartDate, out string dateCaption, out string hours)
+        public static void CalculateDailyHours(DateTime StartDate, out string dateCaption, out string hours, out Color textColor)
         {
             string day = string.Empty;
             string month = string.Empty;
             string year = string.Empty;
             string inputDate = string.Empty;
             dateCaption = string.Empty;
+            textColor = Color.Black;
 
             day = StartDate.Day.ToString("d2");
             month = StartDate.Month.ToString("d2");
@@ -257,8 +262,16 @@ namespace JiraBrowserWin
                 if (result != null && DBNull.Value != result)
                 {
                     decimal minutes = Convert.ToDecimal(result);
+                    if (minutes >= 450)
+                    {
+                        textColor = Color.Green;
+                    }
+                    else
+                    {
+                        textColor = Color.Red;
+                    }
                     minutes = minutes / 60;
-                    hours = Convert.ToString(minutes);
+                    hours = Convert.ToString(minutes);                    
                 }
                 else
                 {

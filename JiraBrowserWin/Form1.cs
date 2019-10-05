@@ -5,16 +5,18 @@ using System.Drawing;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 using System.Data.SQLite;
-using System.IO;
 using CefSharp;
 using CefSharp.WinForms;
 using System.Windows.Forms.Calendar;
-using Outlook = Microsoft.Office.Interop.Outlook;
+//using Outlook = Microsoft.Office.Interop.Outlook;
 using System.Globalization;
 using System.Collections;
 using System.Collections.Generic;
 using JiraBrowserWin.JiraModel;
 using System.Threading;
+using LiveCharts;
+using LiveCharts.Wpf;
+using LiveCharts.WinForms;
 
 namespace JiraBrowserWin
 {
@@ -66,7 +68,7 @@ namespace JiraBrowserWin
             vScrollBar1.Scroll += (sender, e) => { panel1.VerticalScroll.Value = vScrollBar1.Value; };
             panel1.Controls.Add(vScrollBar1);
 
-            panel1.Visible = Properties.Settings.Default.ShowWeeklyHours;
+            panel1.Visible = Properties.Settings.Default.ShowWeeklyHours;                       
 
             #region vnosi
 
@@ -110,15 +112,15 @@ namespace JiraBrowserWin
             {
                 
             }
-        }       
-
+        }        
         internal void FillData(SQLiteConnection sqlConn1)
         {
+            //seznam vnosov
             string command = "Select * From JiraEntry";
             da = new SQLiteDataAdapter(command, sqlConn1);
             ds = new DataSet();
             SQLiteCommandBuilder commandBuilder = new SQLiteCommandBuilder(da);
-            da.Fill(ds, "JiraEntry");
+            da.Fill(ds, "JiraEntry");            
             dt = ds.Tables["JiraEntry"];
             listView2.Items.Clear();
             Font myCheckBoxFont = new Font("Wingdings", 12, FontStyle.Regular);
@@ -333,7 +335,7 @@ namespace JiraBrowserWin
         {
             
             CefSettings settings = new CefSettings();
-            settings.CachePath = @"C:\temp\";
+            settings.CachePath = @"C:\temp\";            
             // Initialize cef with the provided settings            
             Cef.Initialize(settings);
             // Create a browser component
@@ -609,6 +611,7 @@ namespace JiraBrowserWin
             }
         }
 
+        Func<ChartPoint, string> labelPoint = ChartPoint => string.Format("{0} ({1:P}", ChartPoint.Y, ChartPoint.Participation);
         private void LoadItems()
         {
             //calendar1.ViewEnd = DateTime.Now;
@@ -617,7 +620,7 @@ namespace JiraBrowserWin
             //calendar1.ViewEnd = calendar1.ViewStart.AddDays(6);
             calendar1.SetViewRange(monthView1.SelectionStart.StartOfWeek(DayOfWeek.Monday), monthView1.SelectionStart.StartOfWeek(DayOfWeek.Monday).AddDays(6));
             calendar1.TimeUnitsOffset = -30;
-            CommonFunctions.LoadItems(ref calendar1);
+            CommonFunctions.LoadItems(ref calendar1);          
         }
 
         private void calendar1_ItemCreated(object sender, System.Windows.Forms.Calendar.CalendarItemCancelEventArgs e)
@@ -782,6 +785,7 @@ namespace JiraBrowserWin
 
         private void GetOutlookItems()
         {
+            /*
             DateTime startTime = monthView1.SelectionStart.StartOfWeek(DayOfWeek.Monday);
             DateTime endTime = monthView1.SelectionStart.StartOfWeek(DayOfWeek.Monday).AddDays(6);
             Outlook.Application oApp = null;
@@ -805,11 +809,13 @@ namespace JiraBrowserWin
                 {
                     listView3.Items.Add(new ListViewItem(mail.Subject));
                 }                
-            }             
+            } 
+            */
         }
 
         private void GetOutlookCalendar()
         {
+            /*
             string innerException;
             DateTime startTime = monthView1.SelectionStart.StartOfWeek(DayOfWeek.Monday);
             DateTime endTime = monthView1.SelectionStart.StartOfWeek(DayOfWeek.Monday).AddDays(6);
@@ -924,6 +930,7 @@ namespace JiraBrowserWin
                     }
                 }
             }
+            */
         }
 
         private void btn_OlCal_Click(object sender, EventArgs e)
@@ -1034,27 +1041,61 @@ namespace JiraBrowserWin
         {
             string dateCaption = string.Empty;
             string timeCaption = string.Empty;
-            CommonFunctions.CalculateDailyHours(monthView1.SelectionStart.StartOfWeek(DayOfWeek.Monday), out dateCaption, out timeCaption);
-            linkLabel8.Text = dateCaption;
+            Color textColor = Color.Black;
+            CommonFunctions.CalculateDailyHours(monthView1.SelectionStart.StartOfWeek(DayOfWeek.Monday), out dateCaption, out timeCaption, out textColor);
+            linkLabel8.Text = dateCaption;            
             linkLabel7.Text = timeCaption;
-            CommonFunctions.CalculateDailyHours(monthView1.SelectionStart.StartOfWeek(DayOfWeek.Monday).AddDays(1), out dateCaption, out timeCaption);
-            linkLabel9.Text = dateCaption;
+            linkLabel7.LinkColor = textColor;
+            linkLabel8.LinkColor = textColor;
+
+            CommonFunctions.CalculateDailyHours(monthView1.SelectionStart.StartOfWeek(DayOfWeek.Monday).AddDays(1), out dateCaption, out timeCaption, out textColor);
+            linkLabel9.Text = dateCaption;            
             linkLabel6.Text = timeCaption;
-            CommonFunctions.CalculateDailyHours(monthView1.SelectionStart.StartOfWeek(DayOfWeek.Monday).AddDays(2), out dateCaption, out timeCaption);
+            linkLabel6.LinkColor = textColor;
+            linkLabel9.LinkColor = textColor;
+
+            CommonFunctions.CalculateDailyHours(monthView1.SelectionStart.StartOfWeek(DayOfWeek.Monday).AddDays(2), out dateCaption, out timeCaption, out textColor);
             linkLabel10.Text = dateCaption;
             linkLabel5.Text = timeCaption;
-            CommonFunctions.CalculateDailyHours(monthView1.SelectionStart.StartOfWeek(DayOfWeek.Monday).AddDays(3), out dateCaption, out timeCaption);
+            linkLabel10.LinkColor = textColor;
+            linkLabel5.LinkColor = textColor;
+
+            CommonFunctions.CalculateDailyHours(monthView1.SelectionStart.StartOfWeek(DayOfWeek.Monday).AddDays(3), out dateCaption, out timeCaption, out textColor);
             linkLabel11.Text = dateCaption;
             linkLabel4.Text = timeCaption;
-            CommonFunctions.CalculateDailyHours(monthView1.SelectionStart.StartOfWeek(DayOfWeek.Monday).AddDays(4), out dateCaption, out timeCaption);
+            linkLabel11.LinkColor = textColor;
+            linkLabel4.LinkColor = textColor;
+
+            CommonFunctions.CalculateDailyHours(monthView1.SelectionStart.StartOfWeek(DayOfWeek.Monday).AddDays(4), out dateCaption, out timeCaption, out textColor);
             linkLabel12.Text = dateCaption;
             linkLabel3.Text = timeCaption;
-            CommonFunctions.CalculateDailyHours(monthView1.SelectionStart.StartOfWeek(DayOfWeek.Monday).AddDays(5), out dateCaption, out timeCaption);
+            linkLabel12.LinkColor = textColor;
+            linkLabel3.LinkColor = textColor;
+
+            CommonFunctions.CalculateDailyHours(monthView1.SelectionStart.StartOfWeek(DayOfWeek.Monday).AddDays(5), out dateCaption, out timeCaption, out textColor);
             linkLabel13.Text = dateCaption;
             linkLabel2.Text = timeCaption;
-            CommonFunctions.CalculateDailyHours(monthView1.SelectionStart.StartOfWeek(DayOfWeek.Monday).AddDays(6), out dateCaption, out timeCaption);
+            linkLabel13.LinkColor = textColor;
+            linkLabel2.LinkColor = textColor;
+
+            CommonFunctions.CalculateDailyHours(monthView1.SelectionStart.StartOfWeek(DayOfWeek.Monday).AddDays(6), out dateCaption, out timeCaption, out textColor);
             linkLabel14.Text = dateCaption;
             linkLabel1.Text = timeCaption;
+            linkLabel14.LinkColor = textColor;
+            linkLabel1.LinkColor = textColor;
+        }
+
+        private void RefreshGraphs()
+        {
+            /*
+            SeriesCollection series = new SeriesCollection();
+            dt = ds.Tables["JiraEntry"];
+            foreach (var obj in dt)
+            {
+
+            }
+            */
+            
         }
         private void FilterAndShowResults()
         {
@@ -1088,11 +1129,20 @@ namespace JiraBrowserWin
             string colorCode = string.Empty;
             string webNo = string.Empty;
             string hours = string.Empty;
+            string chargeable = string.Empty;
             rectList = new List<Rectangle>();
             taskList = new List<string>();
             hoursList = new List<string>();
             brushList = new List<Brush>();
             colorList = new List<Color>();
+
+            string selectChargeable =
+              "select WebNo, sum(replace(workhours, \"m\", \"\")) AS Workhours, ColorCode, Unchargeable " +
+              "from JiraEntry " +
+              "left join JiraProjects jp " +
+              "on substr(WebNo, 1, instr(WebNo, '-') - 1) = jp.ProjectKey " +
+              "where StartDate >= @param1 and EndDate <= @param2 " +
+              "group by Unchargeable";
 
             string selectText =
             "select WebNo, sum(replace(workhours, \"m\", \"\")) AS Workhours, ColorCode " +
@@ -1106,6 +1156,8 @@ namespace JiraBrowserWin
             //    @"select distinct WebNo from JiraEntry where StartDate >= @param1 and EndDate <=@param2";
             try
             {
+                SeriesCollection series = new SeriesCollection();
+                SeriesCollection series2 = new SeriesCollection();
                 SQLiteCommand sqlCommand = new SQLiteCommand(selectText, sqlConn);
                 sqlCommand.Parameters.Add(new SQLiteParameter("@param1", CommonFunctions.currentStartDate));
                 sqlCommand.Parameters.Add(new SQLiteParameter("@param2", CommonFunctions.currentEndDate));
@@ -1116,6 +1168,7 @@ namespace JiraBrowserWin
                     colorCode = Convert.ToString(reader["ColorCode"]);
                     webNo = Convert.ToString(reader["WebNo"]);
                     taskList.Add(webNo);
+                    series.Add(new PieSeries() { Title = webNo, Values = new ChartValues<int> { Convert.ToInt32(workhours)}, DataLabels = true, LabelPoint = labelPoint });
 
                     Rectangle rc = new Rectangle(0, yPos, panel1.Width - 20, 20);
                     rectList.Add(rc);
@@ -1155,7 +1208,8 @@ namespace JiraBrowserWin
 
                     }
                     yPos += 22;
-                }
+                }                
+
                 yPos = 0;
                 int iIndexer = 0;
                 foreach (Rectangle rect in rectList)
@@ -1165,7 +1219,33 @@ namespace JiraBrowserWin
                     TextRenderer.DrawText(e.Graphics, hoursList[iIndexer], fnt, new Point(rect.Width - TextRenderer.MeasureText(hoursList[iIndexer], fnt).Width - 3, yPos + 3), colorList[iIndexer]);
                     yPos += 22;
                     iIndexer += 1;
+                }                
+                
+                sqlCommand = new SQLiteCommand(selectChargeable, sqlConn);
+                sqlCommand.Parameters.Add(new SQLiteParameter("@param1", CommonFunctions.currentStartDate));
+                sqlCommand.Parameters.Add(new SQLiteParameter("@param2", CommonFunctions.currentEndDate));
+                reader = sqlCommand.ExecuteReader();
+                while (reader.Read())
+                {
+                    workhours = Convert.ToString(reader["Workhours"]);
+                    colorCode = Convert.ToString(reader["ColorCode"]);
+                    webNo = Convert.ToString(reader["WebNo"]);
+                    chargeable = Convert.ToString(reader["Unchargeable"]);
+                    if (chargeable == "0")
+                    {
+                        chargeable = "Chargeable";
+                    }
+                    else
+                    {
+                        chargeable = "Unchargeable";
+                    }
+                    taskList.Add(webNo);
+                    series2.Add(new PieSeries() { Title = chargeable, Values = new ChartValues<int> { Convert.ToInt32(workhours) }, DataLabels = true, LabelPoint = labelPoint });                   
                 }
+
+                pieChart1.Series = series;
+                pieChart2.Series = series2;
+
             }
             catch (Exception eex)
             {

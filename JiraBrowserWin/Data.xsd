@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Data" targetNamespace="http://tempuri.org/Data.xsd" xmlns:mstns="http://tempuri.org/Data.xsd" xmlns="http://tempuri.org/Data.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Data" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="Data" msprop:Generator_UserDSName="Data">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="JiraEntry" msprop:Generator_TableClassName="JiraEntryDataTable" msprop:Generator_TableVarName="tableJiraEntry" msprop:Generator_RowChangedName="JiraEntryRowChanged" msprop:Generator_TablePropName="JiraEntry" msprop:Generator_RowDeletingName="JiraEntryRowDeleting" msprop:Generator_RowChangingName="JiraEntryRowChanging" msprop:Generator_RowEvHandlerName="JiraEntryRowChangeEventHandler" msprop:Generator_RowDeletedName="JiraEntryRowDeleted" msprop:Generator_RowClassName="JiraEntryRow" msprop:Generator_UserTableName="JiraEntry" msprop:Generator_RowEvArgName="JiraEntryRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="JiraTaskNo" msprop:Generator_ColumnVarNameInTable="columnJiraTaskNo" msprop:Generator_ColumnPropNameInRow="JiraTaskNo" msprop:Generator_ColumnPropNameInTable="JiraTaskNoColumn" msprop:Generator_UserColumnName="JiraTaskNo" type="xs:string" />
+              <xs:element name="Date" msprop:Generator_ColumnVarNameInTable="columnDate" msprop:Generator_ColumnPropNameInRow="Date" msprop:Generator_ColumnPropNameInTable="DateColumn" msprop:Generator_UserColumnName="Date" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Duration" msprop:Generator_ColumnVarNameInTable="columnDuration" msprop:Generator_ColumnPropNameInRow="Duration" msprop:Generator_ColumnPropNameInTable="DurationColumn" msprop:Generator_UserColumnName="Duration" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="JiraEntryKey1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:JiraEntry" />
+      <xs:field xpath="mstns:JiraTaskNo" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
